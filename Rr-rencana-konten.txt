@@ -5,4 +5,5 @@ Rencana konten Rr
  - Download gambar gratis
  - Tips & trik ui design
   *Hierarki typography
+  *Tips menggunakan gambar pada ui design
  - Sharing Session microblog
