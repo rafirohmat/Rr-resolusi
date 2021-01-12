@@ -1,6 +1,7 @@
 Rencana konten Rr
  - Situs download 3d icon
   *Refrensi dari behance
+   ^3D emoticon
   *Isometriclove
  - Download gambar gratis
   *unsplash
@@ -8,4 +9,5 @@ Rencana konten Rr
  - Tips & trik ui design
   *Hierarki typography
   *Tips menggunakan gambar pada ui design
+   ^Penggunaan Shadow
  - Sharing Session microblog
