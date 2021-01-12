@@ -2,3 +2,4 @@ Rr resolusi
  - Konsisten membuat konten 3x sebulan
  - Membuat platform digital
  - Bisa memahami javascript
+ - Membuat video tutorial
