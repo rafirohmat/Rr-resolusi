@@ -6,4 +6,6 @@ Rencana konten Rr
   *unsplash
   *pexels
  - Tips & trik ui design
+  *Hierarki typography
+  *Tips menggunakan gambar pada ui design
  - Sharing Session microblog
