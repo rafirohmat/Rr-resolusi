@@ -8,4 +8,5 @@ Rencana konten Rr
  - Tips & trik ui design
   *Hierarki typography
   *Tips menggunakan gambar pada ui design
+   ^Penggunaan Shadow
  - Sharing Session microblog
